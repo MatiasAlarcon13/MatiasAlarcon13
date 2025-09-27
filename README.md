@@ -30,3 +30,13 @@
   <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img align="center" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img align="center" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+    <a href="https://devdocs.io/c/">
+    <img align="center" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />      
+  </a>
+     <a href="https://www.python.org/">
+    <img align="center" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+</div>
