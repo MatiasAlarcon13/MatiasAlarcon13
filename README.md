@@ -8,7 +8,7 @@
 
 - 💻 Estudiante de Tecnicatura en Programación e Innovación Tecnológica
 - 📊 En formación como Data Analyst
-- ⚗️ Apasionado por la Ingeniería Química y la innovación a través de los datos
+- ⚗️ Apasionado por la Química y la innovación a través de los datos
   
 <br>
 
